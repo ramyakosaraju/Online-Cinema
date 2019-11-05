@@ -1,13 +1,8 @@
 <html>
 <head>
-<title>Hello World!</title>
+<title>Online Cinemas!</title>
 </head>
 <body>
-	<h1>Hello World!</h1>
-	<p>
-		It is now
-		<%= new java.util.Date() %></p>
-	<p>
-		You are coming from 
-		<%= request.getRemoteAddr()  %></p>
+	<h1>Online Cinemas</h1>
+	<p>Welcomes you</p>
 </body>
