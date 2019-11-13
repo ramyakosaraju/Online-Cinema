@@ -42,17 +42,6 @@
             </plugin>
         </plugins>
   </build>
-=======
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.devoteam</groupId>
-	<artifactId>online-cinems</artifactId>
-	<version>1.1.3</version>
-	<packaging>war</packaging>
-	<name>Hello World Web Application Repository</name>
-	<description>Simplest possible Java Webapp</description>
->>>>>>> c9410b42f87d54900ef86cf64b6c895ac997a3fa
-
 <distributionManagement>
 <repository>
 <id>nexus</id>
